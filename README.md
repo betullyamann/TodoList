@@ -12,6 +12,6 @@ Dao -> Diğer katmanların veritabanına olan bağımlılığını azaltmak içi
 
 Database tasarımı aşağıdaki gibidir;
 
-![ER Diagram]( TodoList/Todolist_er_diagram.jpg )
+![ER Diagram](https://github.com/betullyamann/TodoList/blob/master/Todolist_er_diagram.jpg)
       
 
